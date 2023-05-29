@@ -27,7 +27,7 @@ npm install
 3. Ejecutar el script
 
 ```bash
-node index.js > calndario.ics
+node index.js > calendario.ics
 ```
 
 4. Importar el fichero "calendario.ics" generado en tu herramienta favorita.
