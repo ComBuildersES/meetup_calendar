@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comunidades Tecnológicas Madrid
+X-WR-CALNAME:Comunidades Tecnológicas Madrid
+BEGIN:VEVENT
+UID:bd88ce93-6f45-4649-bb62-461a42012828
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230601T163000Z
+DTEND:20230601T173000Z
+SUMMARY:madriagil - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/madriagil/events/293549451/
+URL;VALUE=URI:https://www.meetup.com/madriagil/events/293549451/
+END:VEVENT
+BEGIN:VEVENT
+UID:9930ba64-8555-4e7d-a480-446e99e598cd
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230607T170000Z
+DTEND:20230607T180000Z
+SUMMARY:madriagil - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/madriagil/events/293817000/
+URL;VALUE=URI:https://www.meetup.com/madriagil/events/293817000/
+END:VEVENT
+BEGIN:VEVENT
+UID:71a5a99a-cf71-4d04-a1aa-35e2f658510d
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230615T160000Z
+DTEND:20230615T170000Z
+SUMMARY:graphdb-spain - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/graphdb-spain/events/293732121/
+URL;VALUE=URI:https://www.meetup.com/graphdb-spain/events/293732121/
+END:VEVENT
+BEGIN:VEVENT
+UID:e99c8c56-8fb7-4162-8853-57c4f27b3682
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230608T163000Z
+DTEND:20230608T173000Z
+SUMMARY:wordpress-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/wordpress-madrid/events/293617326/
+URL;VALUE=URI:https://www.meetup.com/wordpress-madrid/events/293617326/
+END:VEVENT
+BEGIN:VEVENT
+UID:35c4f783-baf1-4909-b5e8-cda7c0184085
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230606T170000Z
+DTEND:20230606T180000Z
+SUMMARY:go-mad - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/go-mad/events/293839074/
+URL;VALUE=URI:https://www.meetup.com/go-mad/events/293839074/
+END:VEVENT
+BEGIN:VEVENT
+UID:c29efd98-1b5c-4cfc-b2d3-04803c7baecf
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230613T160000Z
+DTEND:20230613T170000Z
+SUMMARY:mad-for-openstack - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/mad-for-openstack/events/289769333/
+URL;VALUE=URI:https://www.meetup.com/mad-for-openstack/events/289769333/
+END:VEVENT
+BEGIN:VEVENT
+UID:f46d0fcc-acff-41ce-8c7f-aab52db9bb8c
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230530T160000Z
+DTEND:20230530T170000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/293693715/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/293693715/
+END:VEVENT
+BEGIN:VEVENT
+UID:c05c2967-2bc8-4e1a-9858-2bc2af0c71bf
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230530T163000Z
+DTEND:20230530T173000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/292533286/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/292533286/
+END:VEVENT
+BEGIN:VEVENT
+UID:0741830c-9c1e-44df-8b5b-e72cc40a8740
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230531T160000Z
+DTEND:20230531T170000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/ztppwsyfchbpc/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/ztppwsyfchbpc/
+END:VEVENT
+BEGIN:VEVENT
+UID:46d6e3b7-04c4-4741-8070-2d591cc8082f
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230531T160000Z
+DTEND:20230531T170000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/293711488/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/293711488/
+END:VEVENT
+BEGIN:VEVENT
+UID:cc9c0b07-874b-4fec-885d-b2ced97b58fe
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230601T170000Z
+DTEND:20230601T180000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/qsfqwsyfcjbcb/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/qsfqwsyfcjbcb/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd64b5dc-ceba-479f-85fa-eae5cbb27a33
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230602T170000Z
+DTEND:20230602T180000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/jrdqwsyfcjbdb/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/jrdqwsyfcjbdb/
+END:VEVENT
+BEGIN:VEVENT
+UID:f2d9f05c-af9e-4d3d-b027-863120dcc752
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230614T160000Z
+DTEND:20230614T170000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/ztppwsyfcjbsb/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/ztppwsyfcjbsb/
+END:VEVENT
+BEGIN:VEVENT
+UID:eac3e3fc-932c-49cb-9a7b-da87c5e38b8c
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230615T170000Z
+DTEND:20230615T180000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/qsfqwsyfcjbtb/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/qsfqwsyfcjbtb/
+END:VEVENT
+BEGIN:VEVENT
+UID:c69252f7-5602-40f4-a7a4-adfd812e3463
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230616T170000Z
+DTEND:20230616T180000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/jrdqwsyfcjbvb/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/jrdqwsyfcjbvb/
+END:VEVENT
+BEGIN:VEVENT
+UID:404c0ce3-3a7f-4fd2-952e-60c7015614f5
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230628T160000Z
+DTEND:20230628T170000Z
+SUMMARY:ironhack-madrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/ironhack-madrid/events/ztppwsyfcjblc/
+URL;VALUE=URI:https://www.meetup.com/ironhack-madrid/events/ztppwsyfcjblc/
+END:VEVENT
+BEGIN:VEVENT
+UID:6339da18-9fb7-4732-8871-aa210ccef189
+SEQUENCE:0
+DTSTAMP:20230529T134909Z
+DTSTART:20230616T160000Z
+DTEND:20230616T170000Z
+SUMMARY:gdgmadrid - Evento
+LOCATION:Madrid
+DESCRIPTION:https://www.meetup.com/gdgmadrid/events/293466505/
+URL;VALUE=URI:https://www.meetup.com/gdgmadrid/events/293466505/
+END:VEVENT
+END:VCALENDAR
