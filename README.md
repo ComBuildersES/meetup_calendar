@@ -27,8 +27,26 @@ npm install
 3. Ejecutar el script
 
 ```bash
-node index.js > calendario.ics
+node index.js --help
+Usage: index [options]
+
+Options:
+  -c, --communities <communities...>  Lista de comunidades para el calendario separadas por commas
+  -h, --help                          display help for command
 ```
+
+- Si queremos generar un fichero ics con los eventos de [todas las communidades](https://github.com/Comunidades-Tecnologicas/comunidades-tecnologicas.github.io/blob/master/data/communities.json) presentes en el repo:
+
+```bash
+node index.js > calendar.ics
+```
+
+- Si sólo queremos los eventos de unas cuantas comunidades:
+
+```bash
+node index.js -c geodevelopers,madridjs > calendar.ics
+```
+
 
 4. Importar el fichero "calendario.ics" generado en tu herramienta favorita.
 

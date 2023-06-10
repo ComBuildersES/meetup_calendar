@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "commander": "^10.0.1",
     "https-proxy-agent": "^7.0.0",
     "ical-generator": "^4.1.0",
     "jsdom": "^22.1.0"
